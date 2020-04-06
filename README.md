@@ -12,11 +12,8 @@
 
 ## Introduction
 
-[Demo](http://diygod.github.io/OwO/demo)
+[Demo](https://demo.darker.ltd/OwO/)
 
-Screenshot
-
-![OwO](http://i.imgur.com/eRSh95i.jpg)
 
 ## Install
 
